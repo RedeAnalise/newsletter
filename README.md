@@ -1,2 +1,2 @@
-# newsletter
-Newsletter da rede análise com Obsidian
+# Newsletter
+Newsletter da Rede Análise com Obsidian 
